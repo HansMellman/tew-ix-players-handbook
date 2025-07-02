@@ -9,3 +9,4 @@ Download: https://drive.google.com/drive/folders/1PwiNbxI7q0QHKTp1-HjLhF4bbRg3iV
 
 A version with improved functionality and stylization has been made by u/ViatorLipsia and can be found here - https://tewhandbook.alwaysdata.net/
 All credit to them for taking the time to do something like this for the community, thank you!
+
